@@ -1,5 +1,9 @@
 <!-- Banner Image -->
 
+
+![Banner](https://your-image-url-here.jpg)
+
+
 <h1>Hey there!  😊  I'm Junaid Hossen</h1>
 <h3>
   Frontend Developer from&nbsp;
