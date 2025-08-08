@@ -1,17 +1,7 @@
 <!-- Banner Image -->
 
-<h1 align="center" style="font-family: Arial, sans-serif;">
-  Hi 👋, I'm
-</h1>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/junaid014/junaid014/main/name.svg" alt="Junaid Hossen" width="380" />
-</h2>
-
-<h3 align="center" style="font-family: Arial, sans-serif;">
-  Frontend Developer
-</h3>
-
+<h1 align="center">Hi 👋, I'm Junaid Hossen</h1>
+<h3 align="center">Frontend Developer</h3>
 
 
 
