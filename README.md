@@ -1,4 +1,7 @@
 <!-- Banner Image -->
+<p align="center">
+  <img src="https://i.ibb.co/zWv57frn/Whats-App-Image-2025-08-08-at-18-14-18-8da5e0f5.jpg" alt="Banner" width="100%" style="max-width: 800px; border-radius: 12px;" />
+</p>
 
 
 <img src="[https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg](https://i.ibb.co.com/zWv57frn/Whats-App-Image-2025-08-08-at-18-14-18-8da5e0f5.jpg)" />
