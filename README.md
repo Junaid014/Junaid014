@@ -19,15 +19,10 @@ I am a passionate Frontend Developer with a focus on building scalable and respo
 I love exploring modern frameworks and creating interactive user experiences.  
 Currently diving deep into React, Next.js, and Tailwind CSS.
 
----
-
-## 🔭 Current Activities
-- Actively exploring **Next.js** to enhance server-side rendering and static site generation skills.  
-- Integrating **animation libraries** such as Framer Motion and Lottie into my projects to improve user experience.  
-- Continuously sharpening frontend development skills and staying updated with the latest React ecosystem advancements.  
 
 
----
+<br>
+
 ## 🛠 Skills
 
 <p>
@@ -46,6 +41,23 @@ Currently diving deep into React, Next.js, and Tailwind CSS.
 </p>
 
 
+---
+
+## 🔭 Current Activities
+- Actively exploring **Next.js** to enhance server-side rendering and static site generation skills.  
+- Integrating **animation libraries** such as Framer Motion and Lottie into my projects to improve user experience.  
+- Continuously sharpening frontend development skills and staying updated with the latest React ecosystem advancements.  
+
+
+---
+
+
+<br>
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=junaid014)](https://git.io/streak-stats)
+
 
 ## 📫 Feel Free to Contact Me 😋
 <br>
@@ -57,10 +69,5 @@ Currently diving deep into React, Next.js, and Tailwind CSS.
 <a href="https://www.linkedin.com/in/junaid-hossen/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Junaid%20Hossen-informational"></a>
 
 ---
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=junaid014)](https://git.io/streak-stats)
 
 
-
-*This README was generated with ❤️ by Junaid Hosen*
