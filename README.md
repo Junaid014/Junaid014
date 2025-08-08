@@ -57,13 +57,10 @@ Currently diving deep into React, Next.js, and Tailwind CSS.
 <a href="https://www.linkedin.com/in/junaid-hossen/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Junaid%20Hossen-informational"></a>
 
 ---
-
 ## 📊 GitHub Stats
 
-![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=junaid014&show_icons=true&theme=dark&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=junaid014)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junaid014&layout=compact&theme=dark)
 
----
 
 *This README was generated with ❤️ by Junaid Hosen*
