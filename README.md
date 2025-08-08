@@ -15,9 +15,10 @@ Currently diving deep into React, Next.js, and Tailwind CSS.
 ---
 
 ## 🔭 Current Activities
+- Learning **animation in React** using libraries like Framer Motion & Lottie.  
+- Building a **sports website** with dynamic features and responsive design.  
 - Exploring **Next.js** for server-side rendering and static site generation.  
-- Developing a **tourism website** to showcase travel destinations.  
-- Learning advanced **React performance optimization** techniques.
+
 
 ---
 
