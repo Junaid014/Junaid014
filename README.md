@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 
 
-![Banner](https://your-image-url-here.jpg)
+<img src="[https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg](https://i.ibb.co.com/zWv57frn/Whats-App-Image-2025-08-08-at-18-14-18-8da5e0f5.jpg)" />
 
 
 <h1>Hey there!  😊  I'm Junaid Hossen</h1>
